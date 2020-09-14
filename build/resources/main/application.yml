@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: NotRocketScience
-server:
-  port: 9211
-  servlet:
-    context-path: /NRS
-
